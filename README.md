@@ -9,5 +9,7 @@ to do list -yy
 
 4√ juejin - [深入理解Spring AOP的动态代理](https://juejin.im/post/5a3284a75188252970793195#heading-5)
 
+5 juejin - [Spring AOP全面认知](https://juejin.im/post/5b06bf2df265da0de2574ee1)
+
 5 juejin - [Spring注解@Autowired原始物分析](https://juejin.im/post/5d9edf18f265da5b7a7543e9)
 
