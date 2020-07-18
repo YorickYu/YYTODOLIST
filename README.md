@@ -18,3 +18,5 @@ to do list -yy
 7 juejin - [redis的zset有多牛?](https://juejin.im/post/5efc0008e51d45349a493893?utm_source=gold_browser_extension)
 
 8 juejin - [Spring核心思想](https://juejin.im/post/5f055cd06fb9a07ebb224a0a?utm_source=gold_browser_extension#heading-0)
+
+9 juejin - [MySQL总结](https://juejin.im/post/5f0d4fadf265da22f3250eaa?utm_source=gold_browser_extension)
