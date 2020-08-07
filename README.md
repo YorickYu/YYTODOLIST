@@ -20,3 +20,5 @@ to do list -yy
 8 juejin - [Spring核心思想](https://juejin.im/post/5f055cd06fb9a07ebb224a0a?utm_source=gold_browser_extension#heading-0)
 
 9 juejin - [MySQL总结](https://juejin.im/post/5f0d4fadf265da22f3250eaa?utm_source=gold_browser_extension)
+
+10 aliyun - [Java开发手册-嵩山版](https://developer.aliyun.com/topic/java20?utm_content=g_1000161792)
