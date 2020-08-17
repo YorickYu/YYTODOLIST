@@ -22,3 +22,5 @@ to do list -yy
 9 juejin - [MySQL总结](https://juejin.im/post/5f0d4fadf265da22f3250eaa?utm_source=gold_browser_extension)
 
 10 aliyun - [Java开发手册-嵩山版](https://developer.aliyun.com/topic/java20?utm_content=g_1000161792)
+
+11 pyimagesearch - [Linux Mac OS](https://www.pyimagesearch.com/2019/01/30/macos-mojave-install-tensorflow-and-keras-for-deep-learning/)
