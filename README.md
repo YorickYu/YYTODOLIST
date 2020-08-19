@@ -24,3 +24,6 @@ to do list -yy
 10 aliyun - [Java开发手册-嵩山版](https://developer.aliyun.com/topic/java20?utm_content=g_1000161792)
 
 11 pyimagesearch - [Linux Mac OS](https://www.pyimagesearch.com/2019/01/30/macos-mojave-install-tensorflow-and-keras-for-deep-learning/)
+
+12 aliyun-developer - [灵魂15问](https://developer.aliyun.com/article/769906?spm=a2c6h.12873581.0.0.3ac5322cCH28kb)
+
