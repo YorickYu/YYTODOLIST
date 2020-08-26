@@ -27,3 +27,8 @@ to do list -yy
 
 12 aliyun-developer - [灵魂15问](https://developer.aliyun.com/article/769906?spm=a2c6h.12873581.0.0.3ac5322cCH28kb)
 
+13√ Java Stream Filter 中 Lambda 表达式异常处理 
+
+​	- [Java Stream Filter with Lambda Expression](https://www.baeldung.com/java-stream-filter-lambda)
+
+​	- [Exceptions in Java 8 Lambda Expressions](https://www.baeldung.com/java-lambda-exceptions)
