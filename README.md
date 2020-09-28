@@ -32,3 +32,6 @@ to do list -yy
 ​	- [Java Stream Filter with Lambda Expression](https://www.baeldung.com/java-stream-filter-lambda)
 
 ​	- [Exceptions in Java 8 Lambda Expressions](https://www.baeldung.com/java-lambda-exceptions)
+
+14 [KMP算法](https://blog.csdn.net/dark_cy/article/details/88698736)
+
