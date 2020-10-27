@@ -20,5 +20,18 @@ to do list -yy
 8 juejin - [Spring核心思想](https://juejin.im/post/5f055cd06fb9a07ebb224a0a?utm_source=gold_browser_extension#heading-0)
 
 9 juejin - [MySQL总结](https://juejin.im/post/5f0d4fadf265da22f3250eaa?utm_source=gold_browser_extension)
+10 aliyun - [Java开发手册-嵩山版](https://developer.aliyun.com/topic/java20?utm_content=g_1000161792)
 
-10 juejin - [Explain](https://juejin.im/post/6844904163969630221)
+11 pyimagesearch - [Linux Mac OS](https://www.pyimagesearch.com/2019/01/30/macos-mojave-install-tensorflow-and-keras-for-deep-learning/)
+
+12 aliyun-developer - [灵魂15问](https://developer.aliyun.com/article/769906?spm=a2c6h.12873581.0.0.3ac5322cCH28kb)
+
+13√ Java Stream Filter 中 Lambda 表达式异常处理
+
+​	- [Java Stream Filter with Lambda Expression](https://www.baeldung.com/java-stream-filter-lambda)
+
+​	- [Exceptions in Java 8 Lambda Expressions](https://www.baeldung.com/java-lambda-exceptions)
+
+14 [KMP算法](https://blog.csdn.net/dark_cy/article/details/88698736)
+
+15 juejin - [Explain](https://juejin.im/post/6844904163969630221)
