@@ -11,7 +11,7 @@ to do list -yy
 
 5 juejin - [Spring AOP全面认知](https://juejin.im/post/5b06bf2df265da0de2574ee1)
 
-5 juejin - [Spring注解@Autowired原始物分析](https://juejin.im/post/5d9edf18f265da5b7a7543e9)
+5^ juejin - [Spring注解@Autowired原始物分析](https://juejin.im/post/5d9edf18f265da5b7a7543e9)
 
 6 juejin - [抖音、腾讯、阿里、美团春招服务端开发岗位硬核面试（完结）](https://juejin.im/post/5ef5284ce51d453483425da9?utm_source=gold_browser_extension#heading-1)
 
@@ -20,6 +20,7 @@ to do list -yy
 8 juejin - [Spring核心思想](https://juejin.im/post/5f055cd06fb9a07ebb224a0a?utm_source=gold_browser_extension#heading-0)
 
 9 juejin - [MySQL总结](https://juejin.im/post/5f0d4fadf265da22f3250eaa?utm_source=gold_browser_extension)
+
 10 aliyun - [Java开发手册-嵩山版](https://developer.aliyun.com/topic/java20?utm_content=g_1000161792)
 
 11 pyimagesearch - [Linux Mac OS](https://www.pyimagesearch.com/2019/01/30/macos-mojave-install-tensorflow-and-keras-for-deep-learning/)
@@ -34,4 +35,4 @@ to do list -yy
 
 14 [KMP算法](https://blog.csdn.net/dark_cy/article/details/88698736)
 
-15 juejin - [Explain](https://juejin.im/post/6844904163969630221)
+15√ juejin - [Explain](https://juejin.im/post/6844904163969630221)
