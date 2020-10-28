@@ -36,3 +36,7 @@ to do list -yy
 14 [KMP算法](https://blog.csdn.net/dark_cy/article/details/88698736)
 
 15√ juejin - [Explain](https://juejin.im/post/6844904163969630221)
+
+16 juejin - [如何优雅的设计和使用缓存？](https://juejin.im/post/6844903665845665805)
+
+17 juejin - [分布式锁](https://juejin.im/post/6844903688088059912#heading-1)
