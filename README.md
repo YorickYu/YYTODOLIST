@@ -43,5 +43,5 @@ to do list -yy
 
 18√ segmentfault - [布隆过滤器](https://segmentfault.com/a/1190000021136424)
 
-19√ juejin - [Java对象在内存的结构](https://juejin.im/post/6844903832833490957)
+19√ juejin - [Java对象在内存的结构](https://juejin.im/post/6844903832833490957) & [java一个对象占用多少字节？](https://blog.csdn.net/zzx410527/article/details/93646925)
 
