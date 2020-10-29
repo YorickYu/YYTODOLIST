@@ -40,3 +40,8 @@ to do list -yy
 16 juejin - [如何优雅的设计和使用缓存？](https://juejin.im/post/6844903665845665805)
 
 17 juejin - [分布式锁](https://juejin.im/post/6844903688088059912#heading-1)
+
+18√ segmentfault - [布隆过滤器](https://segmentfault.com/a/1190000021136424)
+
+19 juejin - [Java对象在内存的结构](https://juejin.im/post/6844903832833490957)
+
