@@ -40,3 +40,5 @@ to do list -yy
 16 juejin - [如何优雅的设计和使用缓存？](https://juejin.im/post/6844903665845665805)
 
 17 juejin - [分布式锁](https://juejin.im/post/6844903688088059912#heading-1)
+
+18√ juejin -[阿里内部MySQL性能优化](https://juejin.cn/post/6897837587042402318?utm_source=gold_browser_extension)
