@@ -41,4 +41,8 @@ to do list -yy
 
 17 juejin - [分布式锁](https://juejin.im/post/6844903688088059912#heading-1)
 
-18√ juejin -[阿里内部MySQL性能优化](https://juejin.cn/post/6897837587042402318?utm_source=gold_browser_extension)
+18√ segmentfault - [布隆过滤器](https://segmentfault.com/a/1190000021136424)
+
+19√ juejin - [Java对象在内存的结构](https://juejin.im/post/6844903832833490957) & [java一个对象占用多少字节？](https://blog.csdn.net/zzx410527/article/details/93646925)
+
+20√ juejin -[阿里内部MySQL性能优化](https://juejin.cn/post/6897837587042402318?utm_source=gold_browser_extension)
