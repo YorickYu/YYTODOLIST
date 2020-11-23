@@ -46,3 +46,5 @@ to do list -yy
 19√ juejin - [Java对象在内存的结构](https://juejin.im/post/6844903832833490957) & [java一个对象占用多少字节？](https://blog.csdn.net/zzx410527/article/details/93646925)
 
 20√ juejin -[阿里内部MySQL性能优化](https://juejin.cn/post/6897837587042402318?utm_source=gold_browser_extension)
+
+21 juejin - [9 种最经典的排序算法](https://juejin.cn/post/6898302847092588558?utm_source=gold_browser_extension)
