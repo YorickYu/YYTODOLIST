@@ -48,3 +48,7 @@ to do list -yy
 20√ juejin -[阿里内部MySQL性能优化](https://juejin.cn/post/6897837587042402318?utm_source=gold_browser_extension)
 
 21 juejin - [9 种最经典的排序算法](https://juejin.cn/post/6898302847092588558?utm_source=gold_browser_extension)
+
+22 juejin - [死锁案例](https://juejin.cn/post/6896364317914955784)
+
+23√ juejin - [HashMap的底层原理](https://juejin.cn/post/6899339357325361166?utm_source=gold_browser_extension)
