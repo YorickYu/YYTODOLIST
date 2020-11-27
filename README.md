@@ -52,3 +52,5 @@ to do list -yy
 22 juejin - [死锁案例](https://juejin.cn/post/6896364317914955784)
 
 23√ juejin - [HashMap的底层原理](https://juejin.cn/post/6899339357325361166?utm_source=gold_browser_extension)
+
+24√ csdn - [MySQL唯一索引和普通索引运行原理和使用选择](https://blog.csdn.net/Srodong/article/details/88838046)
