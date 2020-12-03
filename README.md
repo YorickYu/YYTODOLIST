@@ -54,3 +54,9 @@ to do list -yy
 23√ juejin - [HashMap的底层原理](https://juejin.cn/post/6899339357325361166?utm_source=gold_browser_extension)
 
 24√ csdn - [MySQL唯一索引和普通索引运行原理和使用选择](https://blog.csdn.net/Srodong/article/details/88838046)
+
+25 美团技术 - [Java线程池实现原理及其在美团业务中的实践](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)
+
+26 gitbook - [深入浅出Java多线程](https://redspider.gitbook.io/concurrent/readme)
+
+
