@@ -59,4 +59,4 @@ to do list -yy
 
 26√ gitbook - [深入浅出Java多线程](https://redspider.gitbook.io/concurrent/readme)
 
-
+27√ Hollis - [SimpleDateFormat的线程安全问题](https://www.hollischuang.com/archives/3017?spm=a2c6h.12873639.0.0.6fee1e8bQhLaFM)
