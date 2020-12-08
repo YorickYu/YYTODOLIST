@@ -62,3 +62,5 @@ to do list -yy
 27√ Hollis - [SimpleDateFormat的线程安全问题](https://www.hollischuang.com/archives/3017?spm=a2c6h.12873639.0.0.6fee1e8bQhLaFM)
 
 28√ crossoverjie's blog - [如何优雅的使用和理解线程池](https://crossoverjie.top/2018/07/29/java-senior/ThreadPool/)
+
+29 juejin - [阻塞线程| 一图看懂ArrayBlockingQueue源码](https://juejin.cn/post/6903794210164932622?utm_source=gold_browser_extension)
