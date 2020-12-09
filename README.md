@@ -64,3 +64,5 @@ to do list -yy
 28√ crossoverjie's blog - [如何优雅的使用和理解线程池](https://crossoverjie.top/2018/07/29/java-senior/ThreadPool/)
 
 29 juejin - [阻塞线程| 一图看懂ArrayBlockingQueue源码](https://juejin.cn/post/6903794210164932622?utm_source=gold_browser_extension)
+
+30 juejin - [SkipList和java中ConcurrentSkipListMap的实现](https://juejin.cn/post/6844904147163021325)
