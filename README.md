@@ -66,3 +66,6 @@ to do list -yy
 29 juejin - [阻塞线程| 一图看懂ArrayBlockingQueue源码](https://juejin.cn/post/6903794210164932622?utm_source=gold_browser_extension)
 
 30 juejin - [SkipList和java中ConcurrentSkipListMap的实现](https://juejin.cn/post/6844904147163021325)
+
+31√ Hollis - [一文读懂什么是Java中的自动拆装箱](https://www.hollischuang.com/archives/2700)
+
