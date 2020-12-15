@@ -70,3 +70,6 @@ to do list -yy
 31√ Hollis - [一文读懂什么是Java中的自动拆装箱](https://www.hollischuang.com/archives/2700)
 
 32√ 腾讯云社区 - [深度解析ThreadLocal](https://cloud.tencent.com/developer/article/1627478)
+
+33 了解斐波那契数列、普里姆算法、动态规划
+
