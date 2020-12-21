@@ -73,3 +73,5 @@ to do list -yy
 
 33 了解斐波那契数列、普里姆算法、动态规划
 
+34 juejin - [谈谈kafka中消息消费的零拷贝技术](https://juejin.cn/post/6907857707416420366?utm_source=gold_browser_extension#heading-0)
+
