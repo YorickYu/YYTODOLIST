@@ -25,7 +25,7 @@ to do list -yy
 
 11 pyimagesearch - [Linux Mac OS](https://www.pyimagesearch.com/2019/01/30/macos-mojave-install-tensorflow-and-keras-for-deep-learning/)
 
-12 aliyun-developer - [灵魂15问](https://developer.aliyun.com/article/769906?spm=a2c6h.12873581.0.0.3ac5322cCH28kb)
+12√ aliyun-developer - [灵魂15问](https://developer.aliyun.com/article/769906?spm=a2c6h.12873581.0.0.3ac5322cCH28kb)
 
 13√ Java Stream Filter 中 Lambda 表达式异常处理
 
@@ -73,5 +73,5 @@ to do list -yy
 
 33 了解斐波那契数列、普里姆算法、动态规划
 
-34 juejin - [谈谈kafka中消息消费的零拷贝技术](https://juejin.cn/post/6907857707416420366?utm_source=gold_browser_extension#heading-0)
+34√ juejin - [谈谈kafka中消息消费的零拷贝技术](https://juejin.cn/post/6907857707416420366?utm_source=gold_browser_extension#heading-0)
 
