@@ -75,3 +75,7 @@ to do list -yy
 
 34√ juejin - [谈谈kafka中消息消费的零拷贝技术](https://juejin.cn/post/6907857707416420366?utm_source=gold_browser_extension#heading-0)
 
+35 jike公开课 - [Elasticsearch运维之监控实战](https://time.geekbang.org/column/article/119607)
+
+
+
