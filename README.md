@@ -79,5 +79,5 @@ to do list -yy
 
 36√ segmentfault - [压测工具？压测实战？](https://segmentfault.com/a/1190000020211494)
 
-
+37√ 苏三说技术 - [spring：我是如何解决循环依赖的？](https://www.tuicool.com/wx/qi6ja2r)
 
