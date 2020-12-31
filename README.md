@@ -82,3 +82,14 @@ to do list -yy
 37√ 苏三说技术 - [spring：我是如何解决循环依赖的？](https://www.tuicool.com/wx/qi6ja2r)
 
 38√ [廖雪峰-反射文档](https://www.liaoxuefeng.com/wiki/1252599548343744/1255945147512512)
+
+39 公众号Java专栏 - [Redis 面试总结](https://mp.weixin.qq.com/s/l3dkZj1rrBScAH605c7t5g)
+
+40 知乎 - [谁能用通俗的语言解释一下什么是 RPC 框架？](https://www.zhihu.com/question/25536695)
+
+
+
+**2020年结束啦。新的一年加油！~ Let's go 2021**
+
+---
+
