@@ -93,7 +93,7 @@ to do list -yy
 
 ---
 
-41 了解SparseArray和ArrayMap
+41 尝试从数据结构角度理解SparseArray和ArrayMap的设计优点
 
 
 
