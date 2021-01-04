@@ -98,3 +98,6 @@ to do list -yy
 42√ juejin - [基于Redis的分布式锁实现](https://juejin.cn/post/6844903830442737671)
 
 43 小米技术 - [分布式锁的实现之 redis 篇](https://xiaomi-info.github.io/2019/12/17/redis-distributed-lock/)
+
+44√ 腾讯云社区 - [Redis 单线程模型介绍](https://cloud.tencent.com/developer/article/1403767)
+
