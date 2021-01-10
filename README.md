@@ -104,3 +104,5 @@ to do list -yy
 45√ juejin - [每秒30W次的点赞业务，怎么优化？](https://juejin.cn/post/6914944343191060488?utm_source=gold_browser_extension)
 
 46√ juejin - [redis中db的作用](https://juejin.cn/post/6914942090807869453?utm_source=gold_browser_extension)
+
+47 juejin - [mysql隔离性-MVCC原理详解](https://juejin.cn/post/6915774250318200840?utm_source=gold_browser_extension#heading-3)
