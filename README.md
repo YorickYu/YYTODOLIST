@@ -105,4 +105,6 @@ to do list -yy
 
 46√ juejin - [redis中db的作用](https://juejin.cn/post/6914942090807869453?utm_source=gold_browser_extension)
 
-47 juejin - [mysql隔离性-MVCC原理详解](https://juejin.cn/post/6915774250318200840?utm_source=gold_browser_extension#heading-3)
+47√ juejin - [mysql隔离性-MVCC原理详解](https://juejin.cn/post/6915774250318200840?utm_source=gold_browser_extension#heading-3)
+
+48√ Java Wiki - [openFeign使用](http://bingqilinpeishenme.gitee.io/java-wiki/#/Java/SpringCloud-H%E7%89%88%E6%9C%AC%E5%92%8CAlibaba%E7%89%88%E6%9C%AC/7-OpenFeign)
