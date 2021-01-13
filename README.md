@@ -110,3 +110,7 @@ to do list -yy
 48√ Java Wiki - [openFeign使用](http://bingqilinpeishenme.gitee.io/java-wiki/#/Java/SpringCloud-H%E7%89%88%E6%9C%AC%E5%92%8CAlibaba%E7%89%88%E6%9C%AC/7-OpenFeign)
 
 49 阮一峰 - [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+
+50 juejin - [京东搜索排序在线学习的 Flink 优化实践](https://juejin.cn/post/6917177654361718792?utm_source=gold_browser_extension)
+
+
