@@ -114,3 +114,5 @@ to do list -yy
 50 juejin - [京东搜索排序在线学习的 Flink 优化实践](https://juejin.cn/post/6917177654361718792?utm_source=gold_browser_extension)
 
 51 juejin - [计算机如何表示整数](https://juejin.cn/post/6917154806289137671?utm_source=gold_browser_extension)
+
+52√ javapapers - [Java Method Reference ::](https://javapapers.com/core-java/java-method-reference/)
