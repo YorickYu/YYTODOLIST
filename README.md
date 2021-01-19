@@ -116,3 +116,6 @@ to do list -yy
 51 juejin - [计算机如何表示整数](https://juejin.cn/post/6917154806289137671?utm_source=gold_browser_extension)
 
 52√ javapapers - [Java Method Reference ::](https://javapapers.com/core-java/java-method-reference/)
+
+53√ OSCHINA -  [需要注意的 Mybatis 批量插入](https://my.oschina.net/zjllovecode/blog/1818716)
+
