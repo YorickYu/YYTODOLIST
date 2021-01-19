@@ -119,3 +119,10 @@ to do list -yy
 
 53√ OSCHINA -  [需要注意的 Mybatis 批量插入](https://my.oschina.net/zjllovecode/blog/1818716)
 
+54 CSDN - [Java篇 - 随机数的原理、伪随机和优化](https://blog.csdn.net/u014294681/article/details/86527930?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control)
+
+55 CSDN - [随机数Random和SecureRandom基本用法](https://blog.csdn.net/qq877728715/article/details/104376304)
+
+
+
+
