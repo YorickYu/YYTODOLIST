@@ -55,13 +55,18 @@ to do list -yy
 
 24√ csdn - [MySQL唯一索引和普通索引运行原理和使用选择](https://blog.csdn.net/Srodong/article/details/88838046)
 
-25 美团技术 - [Java线程池实现原理及其在美团业务中的实践](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)
+25 美团技术 - [Java
+实现原理及其在美团业务中的实践](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)
 
 26√ gitbook - [深入浅出Java多线程](https://redspider.gitbook.io/concurrent/readme)
 
 27√ Hollis - [SimpleDateFormat的线程安全问题](https://www.hollischuang.com/archives/3017?spm=a2c6h.12873639.0.0.6fee1e8bQhLaFM)
 
 28√ crossoverjie's blog - [如何优雅的使用和理解线程池](https://crossoverjie.top/2018/07/29/java-senior/ThreadPool/)
+
+- [深入源码分析Java线程池的实现原理](https://mp.weixin.qq.com/s/-89-CcDnSLBYy3THmcLEdQ)
+
+- [一次Java线程池误用引发的血案和总结](https://zhuanlan.zhihu.com/p/32867181)
 
 29 juejin - [阻塞线程| 一图看懂ArrayBlockingQueue源码](https://juejin.cn/post/6903794210164932622?utm_source=gold_browser_extension)
 
