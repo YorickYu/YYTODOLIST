@@ -128,6 +128,6 @@ to do list -yy
 
 55 CSDN - [随机数Random和SecureRandom基本用法](https://blog.csdn.net/qq877728715/article/details/104376304)
 
-
+56√ 知乎 - [JVM之逃逸分析](https://zhuanlan.zhihu.com/p/59215831)
 
 
