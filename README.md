@@ -130,4 +130,4 @@ to do list -yy
 
 56√ 知乎 - [JVM之逃逸分析](https://zhuanlan.zhihu.com/p/59215831)
 
-
+57√ juejin - [说说双亲委派模型？](https://juejin.cn/post/6844903838927814669)
