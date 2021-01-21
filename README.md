@@ -132,6 +132,6 @@ to do list -yy
 
 57√ juejin - [说说双亲委派模型？](https://juejin.cn/post/6844903838927814669)
 
-58√ Java常用语法糖
+58√ Java常用语法糖：[参考](https://zhuanlan.51cto.com/art/201905/596386.htm#topx)
 
 
