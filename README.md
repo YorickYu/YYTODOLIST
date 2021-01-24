@@ -134,4 +134,11 @@ to do list -yy
 
 58√ Java常用语法糖：[参考](https://zhuanlan.51cto.com/art/201905/596386.htm#topx)
 
+**59 Google 工程师 WilliamFiset 的数据结构课程（中英字幕）** - [Easy to Advanced Data Structures](https://www.bilibili.com/video/BV15V411t7KL?p=1)
+
+
+
+
+
+
 
