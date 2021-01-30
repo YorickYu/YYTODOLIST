@@ -142,6 +142,6 @@ to do list -yy
 
 62√ IBM Developer - [Java 8 中的 Streams API 详解](https://developer.ibm.com/zh/languages/java/articles/j-lo-java8streamapi/)
 
-63 [Google Guava](http://ifeve.com/google-guava/)  目的：提升代码效率
+63 google/[guava](https://github.com/google/guava/wiki) 中文译本：[Google Guava](http://ifeve.com/google-guava/)  目的：提升代码效率
 
 
