@@ -145,3 +145,6 @@ to do list -yy
 63 google/[guava](https://github.com/google/guava/wiki) 中文译本：[Google Guava](http://ifeve.com/google-guava/)  目的：提升代码效率
 
 64 twle - [Java 一文秒懂系列](https://www.twle.cn/c/yufei/javatm/javatm-basic-executorservice.html)
+
+65 [Redisson是如何实现分布式锁的？](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247493252&idx=2&sn=5530b330af0e0bcb56f9cc8bd7d0a25d&chksm=ebd5d9a8dca250be07d54c37110fcc2549cb31968557910a77485747d9cb9ee842a2f05c25dc&scene=21#wechat_redirect)
+
