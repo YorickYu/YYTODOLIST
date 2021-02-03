@@ -148,3 +148,4 @@ to do list -yy
 
 65 [Redisson是如何实现分布式锁的？](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247493252&idx=2&sn=5530b330af0e0bcb56f9cc8bd7d0a25d&chksm=ebd5d9a8dca250be07d54c37110fcc2549cb31968557910a77485747d9cb9ee842a2f05c25dc&scene=21#wechat_redirect)
 
+66 juejin - Redis底层数据结构 [Redis 核心篇：唯快不破的秘密](https://juejin.cn/post/6924570137773211662?utm_source=gold_browser_extension)
