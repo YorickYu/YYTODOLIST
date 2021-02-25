@@ -151,3 +151,7 @@ to do list -yy
 66 juejin - Redis底层数据结构 [Redis 核心篇：唯快不破的秘密](https://juejin.cn/post/6924570137773211662?utm_source=gold_browser_extension)
 
 67 腾讯云社区 - [一文带你搞定RabbitMQ死信队列](https://cloud.tencent.com/developer/article/1463065)
+
+68 腾讯云社区 - [RabbitMQ存储和队列结构](https://cloud.tencent.com/developer/article/1469333)
+
+69 美团技术团队 - [Kafka文件存储机制那些事](https://tech.meituan.com/2015/01/13/kafka-fs-design-theory.html)
