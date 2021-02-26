@@ -155,3 +155,7 @@ to do list -yy
 68 腾讯云社区 - [RabbitMQ存储和队列结构](https://cloud.tencent.com/developer/article/1469333)
 
 69 美团技术团队 - [Kafka文件存储机制那些事](https://tech.meituan.com/2015/01/13/kafka-fs-design-theory.html)
+
+70 腾讯云社区 - [CPU缓存一致性协议MESI](https://cloud.tencent.com/developer/article/1548942)
+
+
