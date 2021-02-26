@@ -19,11 +19,11 @@ to do list -yy
 
 8 juejin - [Spring核心思想](https://juejin.im/post/5f055cd06fb9a07ebb224a0a?utm_source=gold_browser_extension#heading-0)
 
-9 juejin - [MySQL总结](https://juejin.im/post/5f0d4fadf265da22f3250eaa?utm_source=gold_browser_extension)
+9√ juejin - [MySQL总结](https://juejin.im/post/5f0d4fadf265da22f3250eaa?utm_source=gold_browser_extension)
 
 10 aliyun - [Java开发手册-嵩山版](https://developer.aliyun.com/topic/java20?utm_content=g_1000161792)
 
-11 pyimagesearch - [Linux Mac OS](https://www.pyimagesearch.com/2019/01/30/macos-mojave-install-tensorflow-and-keras-for-deep-learning/)
+11√ pyimagesearch - [Linux Mac OS](https://www.pyimagesearch.com/2019/01/30/macos-mojave-install-tensorflow-and-keras-for-deep-learning/)
 
 12√ aliyun-developer - [灵魂15问](https://developer.aliyun.com/article/769906?spm=a2c6h.12873581.0.0.3ac5322cCH28kb)
 
@@ -88,7 +88,7 @@ to do list -yy
 
 38√ [廖雪峰-反射文档](https://www.liaoxuefeng.com/wiki/1252599548343744/1255945147512512)
 
-39 公众号Java专栏 - [Redis 面试总结](https://mp.weixin.qq.com/s/l3dkZj1rrBScAH605c7t5g)
+39√ 公众号Java专栏 - [Redis 面试总结](https://mp.weixin.qq.com/s/l3dkZj1rrBScAH605c7t5g)
 
 40 知乎 - [谁能用通俗的语言解释一下什么是 RPC 框架？](https://www.zhihu.com/question/25536695)
 
@@ -158,7 +158,7 @@ to do list -yy
 
 70 腾讯云社区 - [CPU缓存一致性协议MESI](https://cloud.tencent.com/developer/article/1548942)
 
-71 小米 - [分布式事务，这一篇就够了](https://xiaomi-info.github.io/2020/01/02/distributed-transaction/)
+71√ 小米 - [分布式事务，这一篇就够了](https://xiaomi-info.github.io/2020/01/02/distributed-transaction/)
 
 
 
