@@ -160,6 +160,6 @@ to do list -yy
 
 71√ 小米 - [分布式事务，这一篇就够了](https://xiaomi-info.github.io/2020/01/02/distributed-transaction/)
 
-
+72√ 知乎 - [Kafka重复消费场景及解决方案](https://zhuanlan.zhihu.com/p/112745985)
 
 
