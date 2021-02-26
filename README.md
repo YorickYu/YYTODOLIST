@@ -162,4 +162,5 @@ to do list -yy
 
 72√ 知乎 - [Kafka重复消费场景及解决方案](https://zhuanlan.zhihu.com/p/112745985)
 
+73 vivo - [分布式事务-Seata](https://www.cnblogs.com/vivotech/p/14096163.html)
 
