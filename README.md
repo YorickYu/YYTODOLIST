@@ -166,4 +166,5 @@ to do list -yy
 
 74 grpc.io - [What is gRPC?](https://grpc.io/docs/what-is-grpc/core-concepts/#service-definition)
 
+75 InfoQ(Nacos作者) - [Nacos 注册中心的设计原理详解](https://www.infoq.cn/article/B*6vyMIKao9vAKIsJYpE)
 
