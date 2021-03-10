@@ -169,3 +169,6 @@ to do list -yy
 75 InfoQ(Nacos作者) - [Nacos 注册中心的设计原理详解](https://www.infoq.cn/article/B*6vyMIKao9vAKIsJYpE)
 
 76* draveness.me - [为什么这么设计系列文章](https://draveness.me/whys-the-design/)
+
+77 [Gateway限流原理](https://www.iocoder.cn/Spring-Cloud-Gateway/filter-request-rate-limiter/)
+
