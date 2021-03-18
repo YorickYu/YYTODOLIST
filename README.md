@@ -174,4 +174,9 @@ to do list -yy
 
 78 [彻底解决雪花算法时钟回拨问题](https://cloud.tencent.com/developer/news/678423)
 
+79 [熔断器 Hystrix 的原理与使用](https://segmentfault.com/a/1190000005988895)
+
+80 [spring cloud hystrix 熔断详解](https://www.huaweicloud.com/articles/c61b94f240d19f254a89f06b2f018c4e.html)
+
+
 
