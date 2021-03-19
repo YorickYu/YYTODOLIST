@@ -172,11 +172,12 @@ to do list -yy
 
 77 [Gateway限流原理](https://www.iocoder.cn/Spring-Cloud-Gateway/filter-request-rate-limiter/)
 
-78 [彻底解决雪花算法时钟回拨问题](https://cloud.tencent.com/developer/news/678423)
+78 腾讯云 - [彻底解决雪花算法时钟回拨问题](https://cloud.tencent.com/developer/news/678423)
 
-79 [熔断器 Hystrix 的原理与使用](https://segmentfault.com/a/1190000005988895)
+79 segmentfault - [熔断器 Hystrix 的原理与使用](https://segmentfault.com/a/1190000005988895)
 
-80 [spring cloud hystrix 熔断详解](https://www.huaweicloud.com/articles/c61b94f240d19f254a89f06b2f018c4e.html)
+80 华为云 - [spring cloud hystrix 熔断详解](https://www.huaweicloud.com/articles/c61b94f240d19f254a89f06b2f018c4e.html)
 
-81 [教你设计一个超牛逼的本地缓存](https://cloud.tencent.com/developer/article/1676115)
+81 腾讯云 - [教你设计一个超牛逼的本地缓存](https://cloud.tencent.com/developer/article/1676115)
 
+82 美团技术团队 - [缓存那些事](https://tech.meituan.com/2017/03/17/cache-about.html)
