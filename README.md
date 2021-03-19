@@ -181,3 +181,6 @@ to do list -yy
 81 腾讯云 - [教你设计一个超牛逼的本地缓存](https://cloud.tencent.com/developer/article/1676115)
 
 82 美团技术团队 - [缓存那些事](https://tech.meituan.com/2017/03/17/cache-about.html)
+
+83 infoq - [构建用户画像](https://www.infoq.cn/article/ouqjdlfstryamtbyzier)
+
