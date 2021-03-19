@@ -185,3 +185,5 @@ to do list -yy
 83 infoq - [构建用户画像](https://www.infoq.cn/article/ouqjdlfstryamtbyzier)
 
 84 阿里云 - [Redis 跳表](https://yq.aliyun.com/articles/701175)
+
+85 [跳表](https://lotabout.me/2018/skip-list/) 和 [最高楼层问题](https://lotabout.me/2018/max-level-of-skiplist/)
