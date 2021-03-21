@@ -189,3 +189,5 @@ to do list -yy
 85√ [跳表](https://lotabout.me/2018/skip-list/) 和 [最高楼层问题](https://lotabout.me/2018/max-level-of-skiplist/)
 
 86√ 腾讯云 - [一致性哈希负载均衡算法的探讨](https://cloud.tencent.com/developer/article/1404016)
+
+87 [jstat](https://cloud.tencent.com/developer/article/1158596) 查看堆栈信息。 [jstack](https://juejin.cn/post/6844904152850497543) 跟踪堆栈信息
