@@ -191,3 +191,5 @@ to do list -yy
 86√ 腾讯云 - [一致性哈希负载均衡算法的探讨](https://cloud.tencent.com/developer/article/1404016)
 
 87 [jstat](https://cloud.tencent.com/developer/article/1158596) 查看堆栈信息。 [jstack](https://juejin.cn/post/6844904152850497543) 跟踪堆栈信息
+
+88 知乎 - [阿里Sentinel原理解析](https://zhuanlan.zhihu.com/p/64786381)
