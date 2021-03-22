@@ -193,3 +193,7 @@ to do list -yy
 87 [jstat](https://cloud.tencent.com/developer/article/1158596) 查看堆栈信息。 [jstack](https://juejin.cn/post/6844904152850497543) 跟踪堆栈信息
 
 88 知乎 - [阿里Sentinel原理解析](https://zhuanlan.zhihu.com/p/64786381)
+
+89 知乎 - [大众点评订单系统分库分表实践](https://zhuanlan.zhihu.com/p/24036067)
+
+
