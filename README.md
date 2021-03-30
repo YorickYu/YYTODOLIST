@@ -199,3 +199,5 @@ to do list -yy
 90 [大数据分析常用去重算法分析](https://www.infoq.cn/article/j3b2eoz_v7wzm27odwxx)
 
 91 [对内 DDD 对外 API 之—对外 API 的设计理念](https://juejin.cn/post/6943146151201751054?utm_source=gold_browser_extension)
+
+92 [50个让你代码更好的小建议](https://juejin.cn/post/6944642153662398500)
