@@ -194,13 +194,12 @@ to do list -yy
 
 88 知乎 - [阿里Sentinel原理解析](https://zhuanlan.zhihu.com/p/64786381)
 
-89 知乎 - [大众点评订单系统分库分表实践](https://zhuanlan.zhihu.com/p/24036067)
+89√ 知乎 - [大众点评订单系统分库分表实践](https://zhuanlan.zhihu.com/p/24036067)
 
 90 [大数据分析常用去重算法分析](https://www.infoq.cn/article/j3b2eoz_v7wzm27odwxx)
 
 91 [对内 DDD 对外 API 之—对外 API 的设计理念](https://juejin.cn/post/6943146151201751054?utm_source=gold_browser_extension)
 
-92 [50个让你代码更好的小建议](https://juejin.cn/post/6944642153662398500)
+92√ [50个让你代码更好的小建议](https://juejin.cn/post/6944642153662398500)
 
-93 [大数据分析常用去重算法分析](https://www.infoq.cn/article/j3b2eoz_v7wzm27odwxx)
-
+93 [PB级索引数据的实战：百亿数据，毫秒级返回，如何构建？](https://www.jianshu.com/p/d90a6b1fefa6)
