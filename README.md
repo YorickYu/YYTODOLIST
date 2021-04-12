@@ -203,3 +203,5 @@ to do list -yy
 92√ [50个让你代码更好的小建议](https://juejin.cn/post/6944642153662398500)
 
 93 [PB级索引数据的实战：百亿数据，毫秒级返回，如何构建？](https://www.jianshu.com/p/d90a6b1fefa6)
+
+94 [SpringBoot Admin2.0 集成 Java 诊断神器 Arthas 实践](https://juejin.cn/post/6950200468098252808)
