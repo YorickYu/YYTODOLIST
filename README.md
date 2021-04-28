@@ -208,4 +208,7 @@ to do list -yy
 
 95√ [Java程序员必备的一些流程图](https://juejin.cn/post/6844903882162716685)
 
-96 工作需要：[mapStruct](https://mapstruct.org/)\[jetCache](https://github.com/alibaba/jetcache/wiki/Home_CN)\[jd-Hotkey](https://gitee.com/jd-platform-opensource/hotkey)
+96 工作需要：
+      [mapStruct](https://mapstruct.org/)
+      [jetCache](https://github.com/alibaba/jetcache/wiki/Home_CN)
+      [jd-Hotkey](https://gitee.com/jd-platform-opensource/hotkey)
