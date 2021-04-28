@@ -207,3 +207,5 @@ to do list -yy
 94 [SpringBoot Admin2.0 集成 Java 诊断神器 Arthas 实践](https://juejin.cn/post/6950200468098252808)
 
 95√ [Java程序员必备的一些流程图](https://juejin.cn/post/6844903882162716685)
+
+96 工作需要：[mapStruct](https://mapstruct.org/)\[jetCache](https://github.com/alibaba/jetcache/wiki/Home_CN)\[jd-Hotkey](https://gitee.com/jd-platform-opensource/hotkey)
