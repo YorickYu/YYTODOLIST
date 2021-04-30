@@ -1,6 +1,135 @@
 # YYTODOLIST
 to do list -yy
 
+
+
+--- year - 2021---
+
+1 尝试从数据结构角度理解SparseArray和ArrayMap的设计优点
+
+2√ juejin - [基于Redis的分布式锁实现](https://juejin.cn/post/6844903830442737671)
+
+3√ 小米技术 - [分布式锁的实现之 redis 篇](https://xiaomi-info.github.io/2019/12/17/redis-distributed-lock/)
+
+4√ 腾讯云社区 - [Redis 单线程模型介绍](https://cloud.tencent.com/developer/article/1403767)
+
+5√ juejin - [每秒30W次的点赞业务，怎么优化？](https://juejin.cn/post/6914944343191060488?utm_source=gold_browser_extension)
+
+6√ juejin - [redis中db的作用](https://juejin.cn/post/6914942090807869453?utm_source=gold_browser_extension)
+
+7√ juejin - [mysql隔离性-MVCC原理详解](https://juejin.cn/post/6915774250318200840?utm_source=gold_browser_extension#heading-3)
+
+8√ Java Wiki - [openFeign使用](http://bingqilinpeishenme.gitee.io/java-wiki/#/Java/SpringCloud-H%E7%89%88%E6%9C%AC%E5%92%8CAlibaba%E7%89%88%E6%9C%AC/7-OpenFeign)
+
+9 阮一峰 - [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+
+10 juejin - [京东搜索排序在线学习的 Flink 优化实践](https://juejin.cn/post/6917177654361718792?utm_source=gold_browser_extension)
+
+11 juejin - [计算机如何表示整数](https://juejin.cn/post/6917154806289137671?utm_source=gold_browser_extension)
+
+12√ javapapers - [Java Method Reference ::](https://javapapers.com/core-java/java-method-reference/)
+
+13√ OSCHINA -  [需要注意的 Mybatis 批量插入](https://my.oschina.net/zjllovecode/blog/1818716)
+
+14 CSDN - [Java篇 - 随机数的原理、伪随机和优化](https://blog.csdn.net/u014294681/article/details/86527930?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control)
+
+15 CSDN - [随机数Random和SecureRandom基本用法](https://blog.csdn.net/qq877728715/article/details/104376304)
+
+16√ 知乎 - [JVM之逃逸分析](https://zhuanlan.zhihu.com/p/59215831)
+
+17√ juejin - [说说双亲委派模型？](https://juejin.cn/post/6844903838927814669)
+
+18√ Java常用语法糖：[参考](https://zhuanlan.51cto.com/art/201905/596386.htm#topx)
+
+**19 Google 工程师 WilliamFiset 的数据结构课程（中英字幕）** - [Easy to Advanced Data Structures](https://www.bilibili.com/video/BV15V411t7KL?p=1)
+
+20 [Difference between Stream.of() and Arrays.stream() method in Java](https://www.geeksforgeeks.org/difference-between-stream-of-and-arrays-stream-method-in-java/)
+
+21√ juejin - [分布式事务](https://juejin.cn/post/6914894669126533133#heading-2)
+
+22√ IBM Developer - [Java 8 中的 Streams API 详解](https://developer.ibm.com/zh/languages/java/articles/j-lo-java8streamapi/)
+
+23 google/[guava](https://github.com/google/guava/wiki) 中文译本：[Google Guava](http://ifeve.com/google-guava/)  目的：提升代码效率
+
+24 twle - [Java 一文秒懂系列](https://www.twle.cn/c/yufei/javatm/javatm-basic-executorservice.html)
+
+25 [Redisson是如何实现分布式锁的？](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247493252&idx=2&sn=5530b330af0e0bcb56f9cc8bd7d0a25d&chksm=ebd5d9a8dca250be07d54c37110fcc2549cb31968557910a77485747d9cb9ee842a2f05c25dc&scene=21#wechat_redirect)
+
+26 juejin - Redis底层数据结构 [Redis 核心篇：唯快不破的秘密](https://juejin.cn/post/6924570137773211662?utm_source=gold_browser_extension)
+
+27 腾讯云社区 - [一文带你搞定RabbitMQ死信队列](https://cloud.tencent.com/developer/article/1463065)
+
+28 腾讯云社区 - [RabbitMQ存储和队列结构](https://cloud.tencent.com/developer/article/1469333)
+
+29 美团技术团队 - [Kafka文件存储机制那些事](https://tech.meituan.com/2015/01/13/kafka-fs-design-theory.html)
+
+30 腾讯云社区 - [CPU缓存一致性协议MESI](https://cloud.tencent.com/developer/article/1548942)
+
+31√ 小米 - [分布式事务，这一篇就够了](https://xiaomi-info.github.io/2020/01/02/distributed-transaction/)
+
+32√ 知乎 - [Kafka重复消费场景及解决方案](https://zhuanlan.zhihu.com/p/112745985)
+
+33 vivo - [分布式事务-Seata](https://www.cnblogs.com/vivotech/p/14096163.html)
+
+34 grpc.io - [What is gRPC?](https://grpc.io/docs/what-is-grpc/core-concepts/#service-definition)
+
+35 InfoQ(Nacos作者) - [Nacos 注册中心的设计原理详解](https://www.infoq.cn/article/B*6vyMIKao9vAKIsJYpE)
+
+36* draveness.me - [为什么这么设计系列文章](https://draveness.me/whys-the-design/)
+
+37 [Gateway限流原理](https://www.iocoder.cn/Spring-Cloud-Gateway/filter-request-rate-limiter/)
+
+38 腾讯云 - [彻底解决雪花算法时钟回拨问题](https://cloud.tencent.com/developer/news/678423)
+
+39 segmentfault - [熔断器 Hystrix 的原理与使用](https://segmentfault.com/a/1190000005988895)
+
+40 华为云 - [spring cloud hystrix 熔断详解](https://www.huaweicloud.com/articles/c61b94f240d19f254a89f06b2f018c4e.html)
+
+41 腾讯云 - [教你设计一个超牛逼的本地缓存](https://cloud.tencent.com/developer/article/1676115)
+
+42 美团技术团队 - [缓存那些事](https://tech.meituan.com/2017/03/17/cache-about.html)
+
+43 infoq - [构建用户画像](https://www.infoq.cn/article/ouqjdlfstryamtbyzier)
+
+44√ 阿里云 - [Redis 跳表](https://yq.aliyun.com/articles/701175)
+
+45√ [跳表](https://lotabout.me/2018/skip-list/) 和 [最高楼层问题](https://lotabout.me/2018/max-level-of-skiplist/)
+
+46√ 腾讯云 - [一致性哈希负载均衡算法的探讨](https://cloud.tencent.com/developer/article/1404016)
+
+47 [jstat](https://cloud.tencent.com/developer/article/1158596) 查看堆栈信息。 [jstack](https://juejin.cn/post/6844904152850497543) 跟踪堆栈信息
+
+48 知乎 - [阿里Sentinel原理解析](https://zhuanlan.zhihu.com/p/64786381)
+
+49√ 知乎 - [大众点评订单系统分库分表实践](https://zhuanlan.zhihu.com/p/24036067)
+
+50 [大数据分析常用去重算法分析](https://www.infoq.cn/article/j3b2eoz_v7wzm27odwxx)
+
+51 [对内 DDD 对外 API 之—对外 API 的设计理念](https://juejin.cn/post/6943146151201751054?utm_source=gold_browser_extension)
+
+52√ [50个让你代码更好的小建议](https://juejin.cn/post/6944642153662398500)
+
+53 [PB级索引数据的实战：百亿数据，毫秒级返回，如何构建？](https://www.jianshu.com/p/d90a6b1fefa6)
+
+54 [SpringBoot Admin2.0 集成 Java 诊断神器 Arthas 实践](https://juejin.cn/post/6950200468098252808)
+
+55√ [Java程序员必备的一些流程图](https://juejin.cn/post/6844903882162716685)
+
+56 工作需要：
+      [mapStruct](https://mapstruct.org/)
+      [jetCache](https://github.com/alibaba/jetcache/wiki/Home_CN)
+      [jd-Hotkey](https://gitee.com/jd-platform-opensource/hotkey)
+      [skywalking](https://skywalking.apache.org/)
+      [Grafana](https://grafana.com/docs/grafana/next/getting-started/getting-started/)
+      [protocol-buffers](https://developers.google.com/protocol-buffers/)
+      
+57 [Prometheus中文](https://www.orchome.com/Prometheus/index)
+
+58 [skywalking入门](https://github.com/apache/skywalking/blob/5.x/docs/cn/Quick-start-CN.md)
+
+
+--- year - 2020---
+
 1 juejin - [刚去面试Spring Cloud 问了我35个问题，全部分享出来！](https://juejin.im/post/5edeff06f265da76f159fb2a?utm_source=gold_browser_extension#heading-0)
 
 2 github - [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)
@@ -95,130 +224,3 @@ to do list -yy
 
 
 **2020年结束啦。新的一年加油！~ Let's go 2021**
-
----
-
-41 尝试从数据结构角度理解SparseArray和ArrayMap的设计优点
-
-42√ juejin - [基于Redis的分布式锁实现](https://juejin.cn/post/6844903830442737671)
-
-43√ 小米技术 - [分布式锁的实现之 redis 篇](https://xiaomi-info.github.io/2019/12/17/redis-distributed-lock/)
-
-44√ 腾讯云社区 - [Redis 单线程模型介绍](https://cloud.tencent.com/developer/article/1403767)
-
-45√ juejin - [每秒30W次的点赞业务，怎么优化？](https://juejin.cn/post/6914944343191060488?utm_source=gold_browser_extension)
-
-46√ juejin - [redis中db的作用](https://juejin.cn/post/6914942090807869453?utm_source=gold_browser_extension)
-
-47√ juejin - [mysql隔离性-MVCC原理详解](https://juejin.cn/post/6915774250318200840?utm_source=gold_browser_extension#heading-3)
-
-48√ Java Wiki - [openFeign使用](http://bingqilinpeishenme.gitee.io/java-wiki/#/Java/SpringCloud-H%E7%89%88%E6%9C%AC%E5%92%8CAlibaba%E7%89%88%E6%9C%AC/7-OpenFeign)
-
-49 阮一峰 - [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
-
-50 juejin - [京东搜索排序在线学习的 Flink 优化实践](https://juejin.cn/post/6917177654361718792?utm_source=gold_browser_extension)
-
-51 juejin - [计算机如何表示整数](https://juejin.cn/post/6917154806289137671?utm_source=gold_browser_extension)
-
-52√ javapapers - [Java Method Reference ::](https://javapapers.com/core-java/java-method-reference/)
-
-53√ OSCHINA -  [需要注意的 Mybatis 批量插入](https://my.oschina.net/zjllovecode/blog/1818716)
-
-54 CSDN - [Java篇 - 随机数的原理、伪随机和优化](https://blog.csdn.net/u014294681/article/details/86527930?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control)
-
-55 CSDN - [随机数Random和SecureRandom基本用法](https://blog.csdn.net/qq877728715/article/details/104376304)
-
-56√ 知乎 - [JVM之逃逸分析](https://zhuanlan.zhihu.com/p/59215831)
-
-57√ juejin - [说说双亲委派模型？](https://juejin.cn/post/6844903838927814669)
-
-58√ Java常用语法糖：[参考](https://zhuanlan.51cto.com/art/201905/596386.htm#topx)
-
-**59 Google 工程师 WilliamFiset 的数据结构课程（中英字幕）** - [Easy to Advanced Data Structures](https://www.bilibili.com/video/BV15V411t7KL?p=1)
-
-60 [Difference between Stream.of() and Arrays.stream() method in Java](https://www.geeksforgeeks.org/difference-between-stream-of-and-arrays-stream-method-in-java/)
-
-61√ juejin - [分布式事务](https://juejin.cn/post/6914894669126533133#heading-2)
-
-62√ IBM Developer - [Java 8 中的 Streams API 详解](https://developer.ibm.com/zh/languages/java/articles/j-lo-java8streamapi/)
-
-63 google/[guava](https://github.com/google/guava/wiki) 中文译本：[Google Guava](http://ifeve.com/google-guava/)  目的：提升代码效率
-
-64 twle - [Java 一文秒懂系列](https://www.twle.cn/c/yufei/javatm/javatm-basic-executorservice.html)
-
-65 [Redisson是如何实现分布式锁的？](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247493252&idx=2&sn=5530b330af0e0bcb56f9cc8bd7d0a25d&chksm=ebd5d9a8dca250be07d54c37110fcc2549cb31968557910a77485747d9cb9ee842a2f05c25dc&scene=21#wechat_redirect)
-
-66 juejin - Redis底层数据结构 [Redis 核心篇：唯快不破的秘密](https://juejin.cn/post/6924570137773211662?utm_source=gold_browser_extension)
-
-67 腾讯云社区 - [一文带你搞定RabbitMQ死信队列](https://cloud.tencent.com/developer/article/1463065)
-
-68 腾讯云社区 - [RabbitMQ存储和队列结构](https://cloud.tencent.com/developer/article/1469333)
-
-69 美团技术团队 - [Kafka文件存储机制那些事](https://tech.meituan.com/2015/01/13/kafka-fs-design-theory.html)
-
-70 腾讯云社区 - [CPU缓存一致性协议MESI](https://cloud.tencent.com/developer/article/1548942)
-
-71√ 小米 - [分布式事务，这一篇就够了](https://xiaomi-info.github.io/2020/01/02/distributed-transaction/)
-
-72√ 知乎 - [Kafka重复消费场景及解决方案](https://zhuanlan.zhihu.com/p/112745985)
-
-73 vivo - [分布式事务-Seata](https://www.cnblogs.com/vivotech/p/14096163.html)
-
-74 grpc.io - [What is gRPC?](https://grpc.io/docs/what-is-grpc/core-concepts/#service-definition)
-
-75 InfoQ(Nacos作者) - [Nacos 注册中心的设计原理详解](https://www.infoq.cn/article/B*6vyMIKao9vAKIsJYpE)
-
-76* draveness.me - [为什么这么设计系列文章](https://draveness.me/whys-the-design/)
-
-77 [Gateway限流原理](https://www.iocoder.cn/Spring-Cloud-Gateway/filter-request-rate-limiter/)
-
-78 腾讯云 - [彻底解决雪花算法时钟回拨问题](https://cloud.tencent.com/developer/news/678423)
-
-79 segmentfault - [熔断器 Hystrix 的原理与使用](https://segmentfault.com/a/1190000005988895)
-
-80 华为云 - [spring cloud hystrix 熔断详解](https://www.huaweicloud.com/articles/c61b94f240d19f254a89f06b2f018c4e.html)
-
-81 腾讯云 - [教你设计一个超牛逼的本地缓存](https://cloud.tencent.com/developer/article/1676115)
-
-82 美团技术团队 - [缓存那些事](https://tech.meituan.com/2017/03/17/cache-about.html)
-
-83 infoq - [构建用户画像](https://www.infoq.cn/article/ouqjdlfstryamtbyzier)
-
-84√ 阿里云 - [Redis 跳表](https://yq.aliyun.com/articles/701175)
-
-85√ [跳表](https://lotabout.me/2018/skip-list/) 和 [最高楼层问题](https://lotabout.me/2018/max-level-of-skiplist/)
-
-86√ 腾讯云 - [一致性哈希负载均衡算法的探讨](https://cloud.tencent.com/developer/article/1404016)
-
-87 [jstat](https://cloud.tencent.com/developer/article/1158596) 查看堆栈信息。 [jstack](https://juejin.cn/post/6844904152850497543) 跟踪堆栈信息
-
-88 知乎 - [阿里Sentinel原理解析](https://zhuanlan.zhihu.com/p/64786381)
-
-89√ 知乎 - [大众点评订单系统分库分表实践](https://zhuanlan.zhihu.com/p/24036067)
-
-90 [大数据分析常用去重算法分析](https://www.infoq.cn/article/j3b2eoz_v7wzm27odwxx)
-
-91 [对内 DDD 对外 API 之—对外 API 的设计理念](https://juejin.cn/post/6943146151201751054?utm_source=gold_browser_extension)
-
-92√ [50个让你代码更好的小建议](https://juejin.cn/post/6944642153662398500)
-
-93 [PB级索引数据的实战：百亿数据，毫秒级返回，如何构建？](https://www.jianshu.com/p/d90a6b1fefa6)
-
-94 [SpringBoot Admin2.0 集成 Java 诊断神器 Arthas 实践](https://juejin.cn/post/6950200468098252808)
-
-95√ [Java程序员必备的一些流程图](https://juejin.cn/post/6844903882162716685)
-
-96 工作需要：
-      [mapStruct](https://mapstruct.org/)
-      [jetCache](https://github.com/alibaba/jetcache/wiki/Home_CN)
-      [jd-Hotkey](https://gitee.com/jd-platform-opensource/hotkey)
-      [skywalking](https://skywalking.apache.org/)
-      [Grafana](https://grafana.com/docs/grafana/next/getting-started/getting-started/)
-      [protocol-buffers](https://developers.google.com/protocol-buffers/)
-      
-97 [Prometheus中文](https://www.orchome.com/Prometheus/index)
-
-98 [skywalking入门](https://github.com/apache/skywalking/blob/5.x/docs/cn/Quick-start-CN.md)
-
-
-      
