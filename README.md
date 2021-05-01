@@ -129,6 +129,7 @@ to do list -yy
 
 58 [skywalking入门](https://github.com/apache/skywalking/blob/5.x/docs/cn/Quick-start-CN.md)
 
+59 [MySQL分表时机：100w？300w？500w？都对也都不对！](https://juejin.cn/post/6957258784385269768?utm_source=gold_browser_extension)
 
 ---
 
