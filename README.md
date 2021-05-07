@@ -133,6 +133,8 @@ to do list -yy
 
 60√ [Java并行流Parallel Stream与Fork-Join线程池的关系](https://cloud.tencent.com/developer/article/1544929)
 
+61√ [Spliterator深入分析](https://javakhbd.com/article/917)
+
 ---
 
 **year 2020**
