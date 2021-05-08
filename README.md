@@ -135,6 +135,8 @@ to do list -yy
 
 61√ [Spliterator深入分析](https://javakhbd.com/article/917)
 
+62 [《On Java 8》中文版](https://lingcoder.github.io/OnJava8/#/)
+
 ---
 
 **year 2020**
