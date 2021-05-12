@@ -139,6 +139,8 @@ to do list -yy
 
 63√ juejin - [搜索引擎-原理，架构，实现](https://juejin.cn/post/6959762656936869918?utm_source=gold_browser_extension)
 
+64 [Kafka 官宣，干掉 ZooKeeper ](https://mp.weixin.qq.com/s/SbbzLXVDMxU8EZhVHVMtDQ)
+
 ---
 
 **year 2020**
