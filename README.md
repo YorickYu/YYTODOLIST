@@ -142,6 +142,8 @@ to do list -yy
 
 64 [Kafka 官宣，干掉 ZooKeeper ](https://mp.weixin.qq.com/s/SbbzLXVDMxU8EZhVHVMtDQ)
 
+65 [NoSQL存储](https://www.jdon.com/nosql.html)
+
 ---
 
 **year 2020**
