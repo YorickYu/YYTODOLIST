@@ -144,6 +144,8 @@ to do list -yy
 
 65 [NoSQL存储](https://www.jdon.com/nosql.html)
 
+66√ [guava-rate-limiter](https://www.baeldung.com/guava-rate-limiter) & [Detailed Explanation of Guava RateLimiter's Throttling Mechanism](https://www.alibabacloud.com/blog/detailed-explanation-of-guava-ratelimiters-throttling-mechanism_594820)
+
 ---
 
 **year 2020**
