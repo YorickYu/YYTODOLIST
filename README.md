@@ -146,6 +146,8 @@ to do list -yy
 
 66√ [guava-rate-limiter](https://www.baeldung.com/guava-rate-limiter) & [Detailed Explanation of Guava RateLimiter's Throttling Mechanism](https://www.alibabacloud.com/blog/detailed-explanation-of-guava-ratelimiters-throttling-mechanism_594820)
 
+67√ [BaaS、FaaS、Serverless都是什么馅儿？](https://cloud.tencent.com/developer/article/1145319)
+
 ---
 
 **year 2020**
