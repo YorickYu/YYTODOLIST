@@ -127,6 +127,7 @@ to do list -yy
 - [protocol-buffers](https://developers.google.com/protocol-buffers/)  
 - [marathon](https://github.com/mesosphere/marathon)    
 - [gpreplay](https://github.com/buger/goreplay)
+- [chaosblade](https://github.com/chaosblade-io/chaosblade/blob/master/README_CN.md)
       
 57 [Prometheus中文](https://www.orchome.com/Prometheus/index)
 
