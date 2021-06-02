@@ -155,6 +155,8 @@ to do list -yy
 
 69√ @Async - [Creating Asynchronous Methods](https://spring.io/guides/gs/async-method/)
 
+70 [CompletableFuture Guide](https://medium.com/swlh/completablefuture-a-simplified-guide-to-async-programming-41cecb162308)
+
 ---
 
 **year 2020**
