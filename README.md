@@ -153,6 +153,8 @@ to do list -yy
 
 68 [RateLimter原理解析](https://zhuanlan.zhihu.com/p/60979444)
 
+69√ @Async - [Creating Asynchronous Methods](https://spring.io/guides/gs/async-method/)
+
 ---
 
 **year 2020**
