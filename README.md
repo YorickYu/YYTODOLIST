@@ -128,6 +128,8 @@ to do list -yy
 - [marathon](https://github.com/mesosphere/marathon)    
 - [gpreplay](https://github.com/buger/goreplay)
 - [chaosblade](https://github.com/chaosblade-io/chaosblade/blob/master/README_CN.md)
+- [shardingsphere](https://shardingsphere.apache.org/)
+- [dynamic-datasource](https://github.com/baomidou/dynamic-datasource-spring-boot-starter)
       
 57 [Prometheus中文](https://www.orchome.com/Prometheus/index)
 
