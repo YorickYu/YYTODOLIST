@@ -87,7 +87,7 @@ to do list -yy
 
 40 华为云 - [spring cloud hystrix 熔断详解](https://www.huaweicloud.com/articles/c61b94f240d19f254a89f06b2f018c4e.html)
 
-41 腾讯云 - [教你设计一个超牛逼的本地缓存](https://cloud.tencent.com/developer/article/1676115)
+41√ 腾讯云 - [教你设计一个超牛逼的本地缓存](https://cloud.tencent.com/developer/article/1676115)
 
 42 美团技术团队 - [缓存那些事](https://tech.meituan.com/2017/03/17/cache-about.html)
 
