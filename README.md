@@ -162,8 +162,9 @@ to do list -yy
 
 71 golang:
 
-- [Go 指南](https://tour.go-zh.org/basics/1)
+- [官方文档入口](https://golang.org/doc/)
 - [Effective Go](https://golang.org/doc/effective_go)
+- [Go 指南](https://tour.go-zh.org/basics/1)
 - [GO 语言简介（上）— 语法](https://coolshell.cn/articles/8460.html)
 - [GO 语言简介（下）— 特性](https://coolshell.cn/articles/8489.html)
 - 错误包装：[errors](https://github.com/pkg/errors)
