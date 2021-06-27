@@ -171,6 +171,10 @@ to do list -yy
 
 72 [马蜂窝ABTest多层分流系统的设计与实现](https://segmentfault.com/a/1190000019279770)
 
+73 HotRing 
+- 论文 - [HotRing: A Hotspot-Aware In-Memory Key-Value Store](https://www.usenix.org/conference/fast20/presentation/chen-jiqiang)
+- 硬核课堂 - [讲义](https://hardcore.feishu.cn/mindnotes/bmncnt6dBr8eAb9swqLz8L7KJih)
+
 ---
 
 **year 2020**
