@@ -156,7 +156,9 @@ to do list -yy
 
 68√ [RateLimter原理解析](https://zhuanlan.zhihu.com/p/60979444)
 
-69√ @Async - [Creating Asynchronous Methods](https://spring.io/guides/gs/async-method/)
+69√ @Async 
+- [Creating Asynchronous Methods](https://spring.io/guides/gs/async-method/)
+- [Spring中异步注解@Async的使用、原理及使用时可能导致的问题](https://developer.aliyun.com/article/768513)
 
 70√ [CompletableFuture Guide](https://medium.com/swlh/completablefuture-a-simplified-guide-to-async-programming-41cecb162308)
 
