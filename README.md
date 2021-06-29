@@ -179,7 +179,9 @@ to do list -yy
 - [性能提升2.58倍！阿里最快KV存储引擎揭秘](https://developer.aliyun.com/article/749455?utm_content=g_1000107624)
 - 论文 - [HotRing: A Hotspot-Aware In-Memory Key-Value Store](https://www.usenix.org/conference/fast20/presentation/chen-jiqiang)
 
-74 MIT - [Operating System Engineering](https://pdos.csail.mit.edu/6.828/2020/schedule.html)
+74 MIT - Operating System Engineering
+- [课程](https://pdos.csail.mit.edu/6.828/2020/schedule.html)
+- [译文](https://github.com/huihongxiao/MIT6.S081)
 
 ---
 
