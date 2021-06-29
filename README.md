@@ -131,6 +131,8 @@ to do list -yy
 - [shardingsphere](https://shardingsphere.apache.org/)
 - [dynamic-datasource](https://github.com/baomidou/dynamic-datasource-spring-boot-starter)
 - [tengine](http://tengine.taobao.org/documentation_cn.html)
+- [CAT](https://github.com/dianping/cat)
+- [Zebra](https://github.com/Meituan-Dianping/Zebra)
       
 57 [Prometheus中文](https://www.orchome.com/Prometheus/index)
 
@@ -176,6 +178,8 @@ to do list -yy
 73 HotRing - 纯内存KV存储引擎设计
 - [性能提升2.58倍！阿里最快KV存储引擎揭秘](https://developer.aliyun.com/article/749455?utm_content=g_1000107624)
 - 论文 - [HotRing: A Hotspot-Aware In-Memory Key-Value Store](https://www.usenix.org/conference/fast20/presentation/chen-jiqiang)
+
+74 MIT - [Operating System Engineering](https://pdos.csail.mit.edu/6.828/2020/schedule.html)
 
 ---
 
