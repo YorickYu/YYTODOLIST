@@ -183,6 +183,8 @@ to do list -yy
 - [课程](https://pdos.csail.mit.edu/6.828/2020/schedule.html)
 - [译文](https://github.com/huihongxiao/MIT6.S081)
 
+75 [分库分表扩容如何实现平滑数据迁移？](https://www.zhihu.com/question/447212869/answer/1758343329)
+
 ---
 
 **year 2020**
