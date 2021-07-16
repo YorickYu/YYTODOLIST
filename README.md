@@ -184,7 +184,9 @@ to do list -yy
 - [课程](https://pdos.csail.mit.edu/6.828/2020/schedule.html)
 - [译文](https://github.com/huihongxiao/MIT6.S081)
 
-75 [分库分表扩容如何实现平滑数据迁移？](https://www.zhihu.com/question/447212869/answer/1758343329)
+75√ [分库分表扩容如何实现平滑数据迁移？](https://www.zhihu.com/question/447212869/answer/1758343329)
+
+76√ [深度掌握 Java Stream 流操作](https://juejin.cn/post/6980135669368619045)
 
 ---
 
