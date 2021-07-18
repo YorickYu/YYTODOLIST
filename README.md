@@ -188,6 +188,10 @@ to do list -yy
 
 76√ [深度掌握 Java Stream 流操作](https://juejin.cn/post/6980135669368619045)
 
+77√ [Feign RequestInterceptor in Spring Boot](https://www.javacodemonk.com/feign-requestinterceptor-in-spring-boot-cbe5d967)
+
+78 [分布式缓存与 DB 秒级一致设计实践](https://www.infoq.cn/article/ahsatgossvmtpzg3rafb)
+
 ---
 
 **year 2020**
