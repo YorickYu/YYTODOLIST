@@ -192,6 +192,8 @@ to do list -yy
 
 78 [分布式缓存与 DB 秒级一致设计实践](https://www.infoq.cn/article/ahsatgossvmtpzg3rafb)
 
+79 [MyBatis-Plus 批处理有坑，我教你改造](https://juejin.cn/post/6939777685170159629)
+
 ---
 
 **year 2020**
