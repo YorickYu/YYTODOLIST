@@ -194,6 +194,8 @@ to do list -yy
 
 79 [MyBatis-Plus 批处理有坑，我教你改造](https://juejin.cn/post/6939777685170159629)
 
+80√ [优秀开源软件的类，都是怎么命名的?](https://juejin.cn/post/6995342820512890893?utm_source=gold_browser_extension#heading-12)
+
 ---
 
 **year 2020**
