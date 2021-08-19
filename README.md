@@ -120,6 +120,7 @@ to do list -yy
 56 工作需要：
 
 - [mapStruct](https://mapstruct.org/)
+- [RedisUtil](https://github.com/iyayu/RedisUtil)
 - [jetCache](https://github.com/alibaba/jetcache/wiki/Home_CN)
 - [jd-Hotkey](https://gitee.com/jd-platform-opensource/hotkey)   
 - [skywalking](https://skywalking.apache.org/)  
