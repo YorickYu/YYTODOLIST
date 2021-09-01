@@ -137,6 +137,8 @@ to do list -yy
 - [flyway](https://flywaydb.org/)
 - [OpenResty](https://openresty.org/cn/)
 - [btrace](https://github.com/btraceio/btrace)
+- [mockito](https://github.com/mockito/mockito)
+- [sonar](https://www.sonarqube.org/)
       
 57 [Prometheus中文](https://www.orchome.com/Prometheus/index)
 
