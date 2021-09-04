@@ -205,6 +205,8 @@ to do list -yy
 
 82 [JetCache 缓存框架的使用以及源码分析](https://www.cnblogs.com/lifullmoon/p/13854158.html)
 
+83 [spring事务失效的12种场景](https://juejin.cn/post/7003949263281455112?utm_source=gold_browser_extension)
+
 ---
 
 **year 2020**
