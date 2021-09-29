@@ -107,7 +107,10 @@ to do list -yy
 
 50 [大数据分析常用去重算法分析](https://www.infoq.cn/article/j3b2eoz_v7wzm27odwxx)
 
-51 [对内 DDD 对外 API 之—对外 API 的设计理念](https://juejin.cn/post/6943146151201751054?utm_source=gold_browser_extension)
+51 领域模型设计
+
+- [对内 DDD 对外 API 之—对外 API 的设计理念](https://juejin.cn/post/6943146151201751054?utm_source=gold_browser_extension)
+- [DDD项目架构与充血模型实例](https://juejin.cn/post/6892920519507574798)
 
 52√ [50个让你代码更好的小建议](https://juejin.cn/post/6944642153662398500)
 
@@ -167,6 +170,7 @@ to do list -yy
 69√ @Async 
 - [Creating Asynchronous Methods](https://spring.io/guides/gs/async-method/)
 - [Spring中异步注解@Async的使用、原理及使用时可能导致的问题](https://developer.aliyun.com/article/768513)
+- [你必须懂也可以懂的@Async原理](https://juejin.cn/post/6858854987280809997)
 
 70√ [CompletableFuture Guide](https://medium.com/swlh/completablefuture-a-simplified-guide-to-async-programming-41cecb162308)
 
