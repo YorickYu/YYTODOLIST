@@ -19,8 +19,9 @@ to do list -yy
 
 6√ juejin - [redis中db的作用](https://juejin.cn/post/6914942090807869453?utm_source=gold_browser_extension)
 
-7√ juejin - [mysql隔离性-MVCC原理详解](https://juejin.cn/post/6915774250318200840?utm_source=gold_browser_extension#heading-3)
-   juejin - [看一遍就理解：MVCC原理详解](https://juejin.cn/post/7016165148020703246)
+7√ MVCC 多版本并发控制
+- [mysql隔离性-MVCC原理详解](https://juejin.cn/post/6915774250318200840?utm_source=gold_browser_extension#heading-3)
+- [看一遍就理解：MVCC原理详解](https://juejin.cn/post/7016165148020703246)
 
 8√ Java Wiki - [openFeign使用](http://bingqilinpeishenme.gitee.io/java-wiki/#/Java/SpringCloud-H%E7%89%88%E6%9C%AC%E5%92%8CAlibaba%E7%89%88%E6%9C%AC/7-OpenFeign)
 
@@ -109,7 +110,6 @@ to do list -yy
 50 [大数据分析常用去重算法分析](https://www.infoq.cn/article/j3b2eoz_v7wzm27odwxx)
 
 51 领域模型设计
-
 - [对内 DDD 对外 API 之—对外 API 的设计理念](https://juejin.cn/post/6943146151201751054?utm_source=gold_browser_extension)
 - [DDD项目架构与充血模型实例](https://juejin.cn/post/6892920519507574798)
 
@@ -122,7 +122,6 @@ to do list -yy
 55√ [Java程序员必备的一些流程图](https://juejin.cn/post/6844903882162716685)
 
 56 工作需要：
-
 - [mapStruct](https://mapstruct.org/)
 - [RedisUtil](https://github.com/iyayu/RedisUtil)
 - [jetCache](https://github.com/alibaba/jetcache/wiki/Home_CN)
@@ -176,7 +175,6 @@ to do list -yy
 70√ [CompletableFuture Guide](https://medium.com/swlh/completablefuture-a-simplified-guide-to-async-programming-41cecb162308)
 
 71 golang:
-
 - [官方文档入口](https://golang.org/doc/)
 - [Effective Go](https://golang.org/doc/effective_go)
 - [Go 指南](https://tour.go-zh.org/basics/1)
@@ -213,8 +211,8 @@ to do list -yy
 83 [spring事务失效的12种场景](https://juejin.cn/post/7003949263281455112?utm_source=gold_browser_extension)
 
 84 FastThreadLocal 
-    - [原来这就是比 ThreadLocal 更快的玩意?](https://juejin.cn/post/7005084861975232549?utm_source=gold_browser_extension#heading-1)
-    - [Netty高性能FastThreadLocal原理深度剖析](https://cloud.tencent.com/developer/article/1461731)
+- [原来这就是比 ThreadLocal 更快的玩意?](https://juejin.cn/post/7005084861975232549?utm_source=gold_browser_extension#heading-1)
+- [Netty高性能FastThreadLocal原理深度剖析](https://cloud.tencent.com/developer/article/1461731)
     
 ---
 
