@@ -212,6 +212,10 @@ to do list -yy
 
 83 [spring事务失效的12种场景](https://juejin.cn/post/7003949263281455112?utm_source=gold_browser_extension)
 
+84 FastThreadLocal 
+    - [原来这就是比 ThreadLocal 更快的玩意?](https://juejin.cn/post/7005084861975232549?utm_source=gold_browser_extension#heading-1)
+    - [Netty高性能FastThreadLocal原理深度剖析](https://cloud.tencent.com/developer/article/1461731)
+    
 ---
 
 **year 2020**
