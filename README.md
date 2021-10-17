@@ -112,6 +112,7 @@ to do list -yy
 51 领域模型设计
 - [对内 DDD 对外 API 之—对外 API 的设计理念](https://juejin.cn/post/6943146151201751054?utm_source=gold_browser_extension)
 - [DDD项目架构与充血模型实例](https://juejin.cn/post/6892920519507574798)
+- [领域驱动设计在互联网业务开发中的实践](https://tech.meituan.com/2017/12/22/ddd-in-practice.html)
 
 52√ [50个让你代码更好的小建议](https://juejin.cn/post/6944642153662398500)
 
