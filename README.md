@@ -218,6 +218,8 @@ to do list -yy
 85 [**凤凰架构**](https://icyfenix.cn/) 
 
 86√ [我惊了！CompletableFuture居然有性能问题](https://www.whywhy.vip/archives/135)
+
+87 [SOLID 原则：权威指南](https://developer.aliyun.com/article/226577)
     
 ---
 
