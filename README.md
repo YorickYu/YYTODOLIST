@@ -1,6 +1,13 @@
 # YYTODOLIST
 to do list -yy
 
+**year 2020**
+
+---
+
+***DDD***
+
+1 贫血模型 - [AnemicDomainModel](https://martinfowler.com/bliki/AnemicDomainModel.html)
 
 
 **year 2021**
