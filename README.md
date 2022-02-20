@@ -12,6 +12,8 @@ to do list -yy
 
 1 贫血模型 - [AnemicDomainModel](https://martinfowler.com/bliki/AnemicDomainModel.html)
 
+2 [洞悉Redis技术内幕](https://www.itzhai.com/articles/redis-technology-insider-cache-data-structure-concurrency-clustering-and-algorithm.html)
+
 
 **year 2021**
 
