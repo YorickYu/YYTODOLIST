@@ -14,7 +14,9 @@ to do list -yy
 
 2 [洞悉Redis技术内幕](https://www.itzhai.com/articles/redis-technology-insider-cache-data-structure-concurrency-clustering-and-algorithm.html)
 
-3 [Spock单元测试框架](https://tech.meituan.com/2021/08/06/spock-practice-in-meituan.html)
+3 [Spock单元测试框架](https://tech.meituan.com/2021/08/06/spock-practice-in-meituan.html)、
+
+4 dal - [Data Access Layer](https://developer.aliyun.com/article/706766)
 
 **year 2021**
 
