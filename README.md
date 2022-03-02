@@ -18,6 +18,8 @@ to do list -yy
 
 4 dal - [Data Access Layer](https://developer.aliyun.com/article/706766)
 
+5 [什么是虚拟内存(Virtual Memory)](https://zhuanlan.zhihu.com/p/82746153)
+
 **year 2021**
 
 ---
