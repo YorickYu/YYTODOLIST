@@ -8,8 +8,6 @@ to do list -yy
 
 ---
 
-***DDD***
-
 1 贫血模型 - [AnemicDomainModel](https://martinfowler.com/bliki/AnemicDomainModel.html)
 
 2 [洞悉Redis技术内幕](https://www.itzhai.com/articles/redis-technology-insider-cache-data-structure-concurrency-clustering-and-algorithm.html)
@@ -24,9 +22,12 @@ to do list -yy
 
 7 [CTR](https://zhuanlan.zhihu.com/p/104307718)
 
-**year 2021**
+8 [Tair](https://developer.aliyun.com/article/749455?utm_content=g_1000107624#slide-13)
 
 ---
+
+**year 2021**
+
 
 1 尝试从数据结构角度理解SparseArray和ArrayMap的设计优点
 
