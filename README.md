@@ -24,6 +24,10 @@ to do list -yy
 
 8 [Tair](https://developer.aliyun.com/article/749455?utm_content=g_1000107624#slide-13)
 
+9 redis - [渐进式rehash](https://cloud.tencent.com/developer/article/1763530)
+
+10 redis - [String vs Hash](https://blog.csdn.net/yangchenhui666/article/details/108786196)
+
 ---
 
 **year 2021**
