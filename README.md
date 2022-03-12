@@ -28,6 +28,10 @@ to do list -yy
 
 10 redis - [String vs Hash](https://blog.csdn.net/yangchenhui666/article/details/108786196)
 
+工作需要：
+- [istio](https://istio.io/latest/zh/docs/)
+
+
 ---
 
 **year 2021**
