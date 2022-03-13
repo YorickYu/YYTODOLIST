@@ -30,6 +30,9 @@ to do list -yy
 
 工作需要：
 - [istio](https://istio.io/latest/zh/docs/)
+- [CQRS 架构模式](https://www.infoq.cn/article/WDLPjOsudOGa34JUTyS9)
+
+11 [OOM生成 dump 文件的问题](https://coderbee.net/index.php/jvm/20190905/1919)
 
 
 ---
