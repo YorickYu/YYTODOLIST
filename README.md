@@ -34,6 +34,8 @@ to do list -yy
 
 11 [OOM生成 dump 文件的问题](https://coderbee.net/index.php/jvm/20190905/1919)
 
+12 [常见的单机限流算法](https://www.cnblogs.com/liqiangchn/p/14253924.html)
+
 
 ---
 
