@@ -31,6 +31,8 @@ to do list -yy
 工作需要：
 - [istio](https://istio.io/latest/zh/docs/)
 - [CQRS 架构模式](https://www.infoq.cn/article/WDLPjOsudOGa34JUTyS9)
+- [pulsar](https://pulsar.apache.org/docs/zh-CN/standalone/)
+- [DTS](https://help.aliyun.com/document_detail/26592.html) - 数据传输服务 Data Transmission Service (aliyun)
 
 11 [OOM生成 dump 文件的问题](https://coderbee.net/index.php/jvm/20190905/1919)
 
