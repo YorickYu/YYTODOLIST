@@ -38,6 +38,8 @@ to do list -yy
 
 12 [常见的单机限流算法](https://www.cnblogs.com/liqiangchn/p/14253924.html)
 
+13 [KNN算法](https://cloud.tencent.com/developer/article/1574868)
+
 
 ---
 
