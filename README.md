@@ -43,6 +43,8 @@ to do list -yy
 
 14 [@JsonComponent](https://www.baeldung.com/spring-boot-jsoncomponent)
 
+15 社交Feed流相关 - [聊聊我们在Feed流场景下的实践](https://juejin.cn/post/6916866081734787085) & [HBase 浅析及业务实践](https://juejin.cn/post/6938345986439790629)
+
 ---
 
 **year 2021**
