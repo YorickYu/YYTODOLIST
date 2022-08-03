@@ -55,6 +55,7 @@ to do list -yy
 
 17 状态机 - [squirrel](https://github.com/hekailiang/squirrel)
 
+18 mybatisplus - [多数据源](https://baomidou.com/pages/a61e1b/#%E6%96%87%E6%A1%A3-documentation)
 
 ---
 
