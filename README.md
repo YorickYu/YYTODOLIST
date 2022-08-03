@@ -53,6 +53,8 @@ to do list -yy
 
 16 [Common Application Properties](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html#appendix.application-properties.core)
 
+17 状态机 - [squirrel](https://github.com/hekailiang/squirrel)
+
 
 ---
 
