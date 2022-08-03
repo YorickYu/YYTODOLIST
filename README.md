@@ -49,6 +49,9 @@ to do list -yy
 - [聊聊我们在Feed流场景下的实践](https://juejin.cn/post/6916866081734787085) 
 - [HBase 浅析及业务实践](https://juejin.cn/post/6938345986439790629)
 
+15 [TCP status](https://www.ibm.com/docs/en/zos/2.1.0?topic=SSLTBW_2.1.0/com.ibm.zos.v2r1.halu101/constatus.htm)
+
+16 [Common Application Properties](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html#appendix.application-properties.core)
 
 
 ---
