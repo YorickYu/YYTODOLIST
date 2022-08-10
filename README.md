@@ -35,6 +35,7 @@ to do list -yy
 - [DTS](https://help.aliyun.com/document_detail/26592.html) - 数据传输服务 Data Transmission Service (aliyun)
 - [Reactor Core](https://github.com/reactor/reactor-core)
 - [liteflow](https://github.com/dromara/liteflow)
+- [zipkin](https://github.com/openzipkin/zipkin)
 
 11 [OOM生成 dump 文件的问题](https://coderbee.net/index.php/jvm/20190905/1919)
 
